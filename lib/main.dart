@@ -92,7 +92,7 @@ class _SIForm extends State<SIForm> {
                   controller: nTextEditingController,
                       validator: (String value){
                         if (value.isEmpty){
-                          return 'Please Enter Time Period';
+                          return 'Please Enter Time Period.';
                         }
                       },
                   keyboardType: TextInputType.number,
