@@ -1,2 +1,2 @@
 # simpleIntrestUsingFlutter
-here , the code is for simple intrest app using flutter.
+This app is Simple intrest calculator developed using flutter.
